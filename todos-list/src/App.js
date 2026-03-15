@@ -5,7 +5,7 @@ function App() {
   return (
     <> 
     <p> MY APP </p>
-    <h1> Hello Siddhant app </h1> 
+    <h1> Hello Siddhant jadhav app </h1> 
     </>
   );
 
